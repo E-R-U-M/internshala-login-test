@@ -38,3 +38,5 @@ Covered scenarios include:
 ├── internshala_login_testcases.pdf
 ├── LICENSE
 └── screenshots
+
+⭐ If you're a recruiter or reviewer, feel free to drop a star or leave a note! ⭐
